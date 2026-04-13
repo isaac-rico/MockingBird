@@ -100,10 +100,10 @@ Future versions should include:
 ---
 
 ## Authors
-Isaac Rico
-Neel Ramesh
-Joey Balardeta
-Matthew Conrad
+- Isaac Rico
+- Neel Ramesh
+- Joey Balardeta
+- Matthew Conrad
 
-**University of California, Irvine** 
+**University of California, Irvine** --
 EECS Capstone Project 2025
