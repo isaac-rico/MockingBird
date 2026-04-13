@@ -6,7 +6,7 @@ MockingBird is a wirelessly controlled robotic hand that mirrors human hand gest
 
 Built as a UC Irvine EECS capstone project, MockingBird explores how natural hand movement can be translated into robotic motion for applications in remote interaction, industrial automation, assistive robotics, and future haptic systems.
 
-Link to [Official Report] with images
+Link to [Official Report](https://github.com/isaac-rico/MockingBird/blob/d4f6ce5df77a0793adb5e8362699f0c6baffa0fd/MockingBird%20Documentation.pdf) with images
 
 ---
 
