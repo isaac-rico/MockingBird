@@ -96,3 +96,14 @@ Future versions should include:
 - Improved thumb articulation
 - Stronger PCB power regulation
 - Safer industrial deployment controls
+
+---
+
+## Authors
+Isaac Rico
+Neel Ramesh
+Joey Balardeta
+Matthew Conrad
+
+**University of California, Irvine** 
+EECS Capstone Project 2025
